@@ -1,6 +1,8 @@
 <!--
 Submit your project proposal for the EuBIC 2018 developer's meeting.
-Please make sure to add all relevant information.
+
+Please carefully read the full guidelines before submitting a project proposal make sure to add all relevant information to your proposal: http://uahost.uantwerpen.be/eubic18/submission.html
+Take a special note that by submitting this project proposal you agree to be the main responsible for this topic if it gets included in the meeting's program.
 -->
 
 # Abstract
