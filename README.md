@@ -1,19 +1,19 @@
-# EuBIC 2018 developer's meeting
-### 9&ndash;12 January 2018, Ghent, Belgium
+# EuBIC 2020 developer's meeting
+### 13&ndash;17 January 2020, Nyborg, Denmartk
 
 ![Logo](logo.png)
 
-The EuBIC 2018 developer's meeting will bring together scientists active in the field of bioinformatics and computational proteomics.
+The EuBIC 2020 developer's meeting will bring together scientists active in the field of bioinformatics and computational proteomics.
 
-This repository will contain some information related to the EuBIC 2018 developer's meeting.
+This repository will contain some information related to the EuBIC 2020 developer's meeting.
 
-For more information, please check the **[official website](http://uahost.uantwerpen.be/eubic18/)**.
+For more information, please check the **[official website](https://www.proteomics-academy.org/)**.
 
 ## Project proposal submission
 
-Topics for the hackathon sessions during the EuBIC 2018 developer's meeting can now be proposed!
+Topics for the hackathon sessions during the EuBIC 2020 developer's meeting can now be proposed!
 
-Please carefully read the **[full guidelines](http://uahost.uantwerpen.be/eubic18/submission.html)** before submitting a project proposal and make sure to add all relevant information to your proposal.
+Please carefully read the **[full guidelines](https://www.proteomics-academy.org/)** before submitting a project proposal and make sure to add all relevant information to your proposal.
 
 ### How to submit a project proposal?
 
