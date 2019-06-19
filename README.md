@@ -1,5 +1,5 @@
 # EuBIC 2020 developer's meeting
-### 13&ndash;17 January 2020, Nyborg, Denmartk
+### 13&ndash;17 January 2020, Nyborg, Denmark
 
 ![Logo](logo.png)
 
