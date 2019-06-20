@@ -1,7 +1,7 @@
 # EuBIC 2020 developer's meeting
 ### 13&ndash;17 January 2020, Nyborg, Denmark
 
-![Logo](logo.png)
+![Logo](logo_2020.png)
 
 The EuBIC 2020 developer's meeting will bring together scientists active in the field of bioinformatics and computational proteomics.
 
