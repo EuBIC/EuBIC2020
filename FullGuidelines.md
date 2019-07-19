@@ -3,7 +3,7 @@
 
 Topics for the hackathon sessions during the EuBIC 2020 Developer's Meeting can now be proposed!
 
-We are currently **crowd sourcing'* projects to connect bioinformaticians. You can **vote for your favorite projects** and international 
+We are currently **crowd sourcing** projects to connect bioinformaticians. You can **vote for your favorite projects** and international 
 task forces will be created around the most successful proposals. 
 Projects with most votes will be presented at the Developer's Meeting and included in coding sessions!
 
