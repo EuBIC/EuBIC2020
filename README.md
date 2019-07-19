@@ -13,7 +13,7 @@ For more information about the meeting, please check the **[official website](ht
 
 Topics for the hackathon sessions during the EuBIC 2020 developer's meeting can now be proposed!
 
-Please carefully read the **[full guidelines](https://www.proteomics-academy.org/)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2018 developer's meeting can be found **[here](https://github.com/eubic/eubic18/issues)**.
+Please carefully read the **[full guidelines](https://github.com/eubic/EuBIC2020/blob/master/FullGuidelines.md)** before submitting a project proposal and make sure to add all relevant information to your proposal. Examples from the EuBIC 2018 developer's meeting can be found **[here](https://github.com/eubic/eubic18/issues)**.
 
 ### How to submit a project proposal?
 
