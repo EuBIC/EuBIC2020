@@ -7,7 +7,7 @@ The EuBIC 2020 developer's meeting will bring together scientists active in the 
 
 __This repository collects proposals for hackathon projects at the EuBIC 2020 developer's meeting.__ For details about the submission format, see below.
 
-For more information about the meeting, please check the **[official website](https://www.proteomics-academy.org/eubic-dev-meeting-2020)**.
+For more information about the meeting, please check the **[official website](https://eubic-ms.org/events/2020-developers-meeting/)**.
 
 ## Submission of project proposals 
 
